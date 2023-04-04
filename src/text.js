@@ -6,7 +6,7 @@ const blue = new PIXI.Color("blue").toNumber();
 
 //texts
 export const infoText = new PIXI.Text(
-  "Walk animation: press Arrow left / right \nSprint: press left Shift \nSpell: press Space",
+  "Walk animation: press and hold Arrow left / right \nSprint: press and hold left Shift \nSpell: press and hold Space",
   { fontFamily: "Arial", fontSize: 32, fill: black, align: "start" }
 );
 
