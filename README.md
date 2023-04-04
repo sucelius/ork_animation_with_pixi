@@ -10,6 +10,7 @@ Overall, this project is an example of how to use PIXI.js and Spine to create in
 
 
 [Spine Animator: Maria K](https://www.behance.net/gallery/159918085/Druid-animation)
+
 [Artist: 阿喳 L](https://www.artstation.com/artwork/2xlBNJ)
 
 
